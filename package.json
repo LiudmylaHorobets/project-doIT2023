@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-doIT2023/",
+    "build": "vite build --base=/fresh-harvest-box/",
     "preview": "vite preview"
   },
   "devDependencies": {
